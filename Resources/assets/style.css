@@ -1,5 +1,5 @@
 body {
-    background-color: #A9AFAF;
+    background-color: #a9afaf9b !important;
 }
 
 h1 {
@@ -25,9 +25,9 @@ p.blocktext{
     width: 50%;
 }
 
-ul .land_link{
-    width: 25%;
-    margin: auto;
+.land_link{
+    width: 25% !important;
+    margin: auto !important;
 }
 ul {
     list-style: none;
@@ -36,3 +36,7 @@ ul {
 .nav-link {
     color: #CA2C33 !important;
     }
+
+nav div ul li a {
+    font-weight: bold;
+}

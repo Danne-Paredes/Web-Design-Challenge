@@ -725,12 +725,12 @@ Employee 238,9/25/2019,Verbal,Location 6,Supervisor 104,,29,Document
 Employee 48,9/22/2019,Written,Location 5,Supervisor 105,,59,Document
 Employee 38,2/2/2020,Verbal,Location 5,Supervisor 106,,29,Document
 Employee 48,3/9/2020,Verbal,Location 5,Supervisor 107,,29,Document
-Employee 508,6/18/2020,Tardy,Location 9,Supervisor 108,,Infraction,Minor
-Employee 508,6/19/2020,Absence,Location 9,Supervisor 108,Y,Infraction,Minor
-Employee 509,6/18/2020,Tardy,Location 9,Supervisor 108,,Infraction,Minor
-Employee 509,6/18/2020,Late Return from Break,Location 9,Supervisor 108,,Infraction,Minor
-Employee 610,6/18/2020,Tardy,Location 9,Supervisor 108,Y,Infraction,Minor
-Employee 711,6/13/2020,Late Return from Lunch,Location 9,Supervisor 108,,Infraction,Minor
+Employee 508,6/18/2020,Tardy,Location 9,Supervisor 108,,Minor,Infraction
+Employee 508,6/19/2020,Absence,Location 9,Supervisor 108,Y,Minor,Infraction
+Employee 509,6/18/2020,Tardy,Location 9,Supervisor 108,,Minor,Infraction
+Employee 509,6/18/2020,Late Return from Break,Location 9,Supervisor 108,,Minor,Infraction
+Employee 610,6/18/2020,Tardy,Location 9,Supervisor 108,Y,Minor,Infraction
+Employee 711,6/13/2020,Late Return from Lunch,Location 9,Supervisor 108,,Minor,Infraction
 Employee 489,3/12/2020,Verbal,Location 10,Supervisor 109,,29,Document
 Employee 740,2/11/2020,Verbal,Location 10,Supervisor 109,,29,Document
 Employee 7,8/10/2019,Absence,Location 4,Supervisor 110,Y,Minor,Infraction
@@ -7136,41 +7136,41 @@ Employee 771,2/3/2020,Absence,Location 9,Supervisor 229,,Minor,Infraction
 Employee 771,3/7/2020,Absence,Location 9,Supervisor 229,,Minor,Infraction
 Employee 772,2/12/2020,Absence,Location 9,Supervisor 229,,Minor,Infraction
 Employee 772,2/29/2020,Early Out,Location 9,Supervisor 229,,Minor,Infraction
-Employee 58,6/21/2020,Late Return from Lunch,Location 5,Supervisor 230,Y,Infraction,Minor
+Employee 58,6/21/2020,Late Return from Lunch,Location 5,Supervisor 230,Y,Minor,Infraction
 Employee 371,2/2/2020,Verbal,Location 6,Supervisor 231,,29,Document
 Employee 446,12/6/2019,Verbal,Location 6,Supervisor 232,,29,Document
 Employee 560,2/1/2020,Written,Location 6,Supervisor 233,,59,Document
 Employee 279,11/8/2019,Verbal,Location 4,Supervisor 234,,29,Document
 Employee 127,10/29/2019,Verbal,Location 4,Supervisor 235,,29,Document
 Employee 317,2/1/2020,Written,Location 6,Supervisor 236,,59,Document
-Employee 453,6/16/2020,Absence,Location 10,Supervisor 237,,Infraction,Minor
-Employee 453,6/17/2020,Absence,Location 10,Supervisor 237,,Infraction,Minor
-Employee 756,6/15/2020,NCNS,Location 10,Supervisor 237,,Infraction,Major
-Employee 756,6/16/2020,NCNS,Location 10,Supervisor 237,,Infraction,Major
-Employee 756,6/17/2020,NCNS,Location 10,Supervisor 237,,Infraction,Major
-Employee 756,6/18/2020,NCNS,Location 10,Supervisor 237,,Infraction,Major
-Employee 756,6/20/2020,NCNS,Location 10,Supervisor 237,,Infraction,Major
-Employee 508,6/15/2020,Tardy,Location 9,Supervisor 238,,Infraction,Minor
-Employee 508,6/16/2020,Tardy,Location 9,Supervisor 238,,Infraction,Minor
-Employee 509,6/15/2020,Tardy,Location 9,Supervisor 238,,Infraction,Minor
-Employee 53,6/22/2020,Absence,Location 4,Supervisor 239,Y,Infraction,Minor
-Employee 198,6/20/2020,Tardy,Location 4,Supervisor 239,Y,Infraction,Minor
-Employee 257,6/22/2020,Tardy,Location 4,Supervisor 239,,Infraction,Minor
-Employee 279,6/20/2020,Absence,Location 4,Supervisor 239,Y,Infraction,Minor
-Employee 279,6/21/2020,Absence,Location 4,Supervisor 239,Y,Infraction,Minor
-Employee 598,6/26/2020,Absence,Location 5,Supervisor 239,Y,Infraction,Minor
-Employee 598,6/27/2020,Absence,Location 5,Supervisor 239,Y,Infraction,Minor
-Employee 830,6/23/2020,Absence,Location 5,Supervisor 239,Y,Infraction,Minor
-Employee 830,6/24/2020,Absence,Location 5,Supervisor 239,Y,Infraction,Minor
-Employee 22,6/23/2020,Absence,Location 5,Supervisor 239,Y,Infraction,Minor
-Employee 48,6/21/2020,Tardy,Location 5,Supervisor 239,Y,Infraction,Minor
-Employee 364,6/21/2020,Absence,Location 6,Supervisor 239,,Infraction,Minor
-Employee 85,6/21/2020,Tardy,Location 6,Supervisor 239,Y,Infraction,Minor
-Employee 85,6/22/2020,Tardy,Location 6,Supervisor 239,Y,Infraction,Minor
-Employee 85,6/22/2020,Early Out,Location 6,Supervisor 239,Y,Infraction,Minor
-Employee 505,6/22/2020,Absence,Location 6,Supervisor 239,Y,Infraction,Minor
-Employee 652,6/19/2020,Absence,Location 6,Supervisor 239,Y,Infraction,Minor
-Employee 652,6/21/2020,Absence,Location 6,Supervisor 239,Y,Infraction,Minor
+Employee 453,6/16/2020,Absence,Location 10,Supervisor 237,,Minor,Infraction
+Employee 453,6/17/2020,Absence,Location 10,Supervisor 237,,Minor,Infraction
+Employee 756,6/15/2020,NCNS,Location 10,Supervisor 237,,Major,Infraction
+Employee 756,6/16/2020,NCNS,Location 10,Supervisor 237,,Major,Infraction
+Employee 756,6/17/2020,NCNS,Location 10,Supervisor 237,,Major,Infraction
+Employee 756,6/18/2020,NCNS,Location 10,Supervisor 237,,Major,Infraction
+Employee 756,6/20/2020,NCNS,Location 10,Supervisor 237,,Major,Infraction
+Employee 508,6/15/2020,Tardy,Location 9,Supervisor 238,,Minor,Infraction
+Employee 508,6/16/2020,Tardy,Location 9,Supervisor 238,,Minor,Infraction
+Employee 509,6/15/2020,Tardy,Location 9,Supervisor 238,,Minor,Infraction
+Employee 53,6/22/2020,Absence,Location 4,Supervisor 239,Y,Minor,Infraction
+Employee 198,6/20/2020,Tardy,Location 4,Supervisor 239,Y,Minor,Infraction
+Employee 257,6/22/2020,Tardy,Location 4,Supervisor 239,,Minor,Infraction
+Employee 279,6/20/2020,Absence,Location 4,Supervisor 239,Y,Minor,Infraction
+Employee 279,6/21/2020,Absence,Location 4,Supervisor 239,Y,Minor,Infraction
+Employee 598,6/26/2020,Absence,Location 5,Supervisor 239,Y,Minor,Infraction
+Employee 598,6/27/2020,Absence,Location 5,Supervisor 239,Y,Minor,Infraction
+Employee 830,6/23/2020,Absence,Location 5,Supervisor 239,Y,Minor,Infraction
+Employee 830,6/24/2020,Absence,Location 5,Supervisor 239,Y,Minor,Infraction
+Employee 22,6/23/2020,Absence,Location 5,Supervisor 239,Y,Minor,Infraction
+Employee 48,6/21/2020,Tardy,Location 5,Supervisor 239,Y,Minor,Infraction
+Employee 364,6/21/2020,Absence,Location 6,Supervisor 239,,Minor,Infraction
+Employee 85,6/21/2020,Tardy,Location 6,Supervisor 239,Y,Minor,Infraction
+Employee 85,6/22/2020,Tardy,Location 6,Supervisor 239,Y,Minor,Infraction
+Employee 85,6/22/2020,Early Out,Location 6,Supervisor 239,Y,Minor,Infraction
+Employee 505,6/22/2020,Absence,Location 6,Supervisor 239,Y,Minor,Infraction
+Employee 652,6/19/2020,Absence,Location 6,Supervisor 239,Y,Minor,Infraction
+Employee 652,6/21/2020,Absence,Location 6,Supervisor 239,Y,Minor,Infraction
 Employee 63,11/3/2019,Verbal,Location 5,Supervisor 240,,29,Document
 Employee 246,11/20/2019,Verbal,Location 5,Supervisor 241,,29,Document
 Employee 386,2/15/2020,Verbal,Location 6,Supervisor 242,,29,Document
@@ -7367,10 +7367,10 @@ Employee 113,10/17/2019,Verbal,Location 4,Supervisor 309,,29,Document
 Employee 104,10/17/2019,Verbal,Location 4,Supervisor 310,,29,Document
 Employee 186,10/26/2019,Verbal,Location 4,Supervisor 311,,29,Document
 Employee 198,2/26/2020,Verbal,Location 4,Supervisor 312,,29,Document
-Employee 623,6/20/2020,Absence,Location 9,Supervisor 313,,Infraction,Minor
-Employee 710,6/22/2020,Absence,Location 9,Supervisor 313,Y,Infraction,Minor
-Employee 711,6/18/2020,Late Return from Lunch,Location 9,Supervisor 313,,Infraction,Minor
-Employee 711,6/21/2020,Absence,Location 9,Supervisor 313,,Infraction,Minor
+Employee 623,6/20/2020,Absence,Location 9,Supervisor 313,,Minor,Infraction
+Employee 710,6/22/2020,Absence,Location 9,Supervisor 313,Y,Minor,Infraction
+Employee 711,6/18/2020,Late Return from Lunch,Location 9,Supervisor 313,,Minor,Infraction
+Employee 711,6/21/2020,Absence,Location 9,Supervisor 313,,Minor,Infraction
 Employee 218,9/26/2019,Early Out,Location 9,Supervisor 314,Y,Minor,Infraction
 Employee 442,1/2/2020,Written,Location 1,Supervisor 315,,59,Document
 Employee 462,8/26/2019,Written,Location 1,Supervisor 315,,59,Document

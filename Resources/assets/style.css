@@ -25,10 +25,7 @@ p.blocktext{
     width: 50%;
 }
 
-.land_link{
-    width: 25% !important;
-    margin: auto !important;
-}
+
 ul {
     list-style: none;
 }
@@ -39,4 +36,16 @@ ul {
 
 nav div ul li a {
     font-weight: bold;
+}
+
+.sect1 {
+    margin: 5em;
+    background-color: #CA2C33;
+}
+.sect2 {
+    margin: .5em;
+    background-color: #6f7272;
+}
+.img1 {
+    width: 100%;
 }

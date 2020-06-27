@@ -10,7 +10,9 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 </head>
 <body>
-    <nav class="navbar navbar-expand-md navbar-light ">
+  <div class="container">
+    <div class="row">
+      <nav class="navbar navbar-expand-md navbar-light ">
         <a class="navbar-brand" href="index.html"><img class="logo" src="Resources/assets/images/Knighted_Outline.png" alt=""></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -40,18 +42,32 @@
           </ul>
         </div>
       </nav>
+    </div>
     <h1 style="text-align: center;">Welcome!!</h1>
-    <p style="text-align: center;" class="blocktext">Welcome to the landing page for my research website. On this home page, you can find links to: </p>
-    <ul class="land_link">
-        <li><a href="viz1.html">Visualization Page 1</a></li>
-        <li><a href="viz2.html">Visualization Page 2</a></li>
-        <li><a href="viz3.html">Visualization Page 3</a></li>
-        <li><a href="viz4.html">Visualization Page 4</a></li>
-        <li><a href="comparison.html">Comparison Page</a></li>
-        <li><a href="data.html">Data Page</a></li>
-    </ul>
-
-
+    <div class="row">
+      <div class="col-md-3 col-sm-12 sect1">
+        <div class="sect2">
+          <p style="text-align: center;" class="blocktext">Welcome to the landing page for my research website. On this home page, you can find links to: </p>
+          <ul>
+              <li><a href="viz1.html">Visualization Page 1</a></li>
+              <li><a href="viz2.html">Visualization Page 2</a></li>
+              <li><a href="viz3.html">Visualization Page 3</a></li>
+              <li><a href="viz4.html">Visualization Page 4</a></li>
+              <li><a href="comparison.html">Comparison Page</a></li>
+              <li><a href="data.html">Data Page</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-12 sect1">
+        <div class="sect2">
+          <img src="Resources/assets/images/Employee_Breakdown.png" alt="">
+          <br>
+          <br>
+          <img src="Resources/assets/images/Employee_Breakdown_Documents.png" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
 
     <!-- JS, Popper.js, and jQuery -->
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

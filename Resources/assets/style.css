@@ -5,12 +5,26 @@ body {
 h1 {
     text-align: center;
     color: #CA2C33;
+    margin-bottom: 5px;
 }
 
 img.logo {
     display: block;
     width: 15%;
 }
+.intro{
+    background-color: #CA2C33;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2em;
+}
+.intro-inner {
+    margin: .5em;
+    padding: 1em;
+    background-color: #6f7272;
+}
+
 
 img.graph {
     display: block;
@@ -25,6 +39,10 @@ p.blocktext{
     width: 50%;
 }
 
+div ul li a {
+    color: rgb(92, 40, 43) !important;
+    font-weight: bold;
+}
 
 ul {
     list-style: none;
@@ -40,12 +58,21 @@ nav div ul li a {
 
 .sect1 {
     margin: 5em;
+    padding: 2em;
     background-color: #CA2C33;
 }
 .sect2 {
     margin: .5em;
+    padding: 1em;
     background-color: #6f7272;
 }
+
+.sect2 ul {
+    text-align: center;
+}
+
 .img1 {
+    display: inline;
     width: 100%;
+    /* position: absolute; */
 }
